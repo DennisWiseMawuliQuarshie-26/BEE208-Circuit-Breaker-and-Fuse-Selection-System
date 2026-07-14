@@ -202,7 +202,7 @@ The aim of this project is to design and implement a C++ program that automates 
 #Validates inputs to ensure only positive values are accepted
 
 **Automated Calculations**
-computr the load current using, 𝐼(𝑙𝑜𝑎𝑑)=𝑃/𝑉
+compute the load current using, 𝐼(𝑙𝑜𝑎𝑑)=𝑃/𝑉
 Computes design current using 𝐼(𝑑𝑒𝑠𝑖𝑔𝑛) = 𝐼(𝑙𝑜𝑎𝑑)× 1.25.
 Applies engineering safety factors automatically
 
@@ -267,7 +267,8 @@ Comment and readable code
 5. Save all reports to protection_report.txt
 6.Stop
 
-****PSEUDOCODE****
+****PSEUDOCODE**** 
+
 START
 Display welcome message
 Display project title
