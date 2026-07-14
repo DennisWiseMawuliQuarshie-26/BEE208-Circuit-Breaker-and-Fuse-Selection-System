@@ -301,13 +301,14 @@ FOR each circuit from 1 to number of circuits DO
 
     Display protection report
     Save protection report to file
-END FOR
+ END FOR
 
-Close file
-Display message that report has been saved
-STOP
+ Close file
+ Display message that report has been saved
+ STOP
 
    ****Future Improvements****
+   
 Possible enhancements for the program include:
 - add support for different electrical standards and country-specific breaker ratings
 - allow the user to choose between fuse and circuit breaker recommendations
