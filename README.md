@@ -11,7 +11,7 @@
 | EZRA ARMOO ENISON | 01243736B |
 | OFOSU DAVID OPOKU | 01243218B |
 | LEMBOE MARVELOUS MARSHAL | 01242579B |
-| QUARSHIE DENNINS WISE | 01242874B |
+| QUARSHIE DENNIS WISE | 01242874B |
 | MISBAAHU FUSEINI | 01240271B |
 
 ## Course Name and Code
@@ -264,7 +264,7 @@ Comment and readable code
    - compare the design current with standard protection ratings
    - select the smallest standard rating that is greater than or equal to the design current
    - display and save the protection report
-5. Save all reports to protection_report.txt.
+5. Save all reports to protection_report.txt
 6.Stop
 
 ****PSEUDOCODE****
