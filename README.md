@@ -1,18 +1,19 @@
 # Circuit Breaker and Fuse Selection System
 
 ## Group Members and Index Numbers
+PRESENTATION FOR GROUP 2.1
+NAMES OF MEMBERS	             INDEX NUMBERS	             ROLE/CONTRIBUTIONS
+ENYOWU JUSTICE KWAME	            01245565B	             Project Lead
+OFOSU DAVID OPOKU	               01243218B	             Algorithm Writer
+AMUYAO FESTUS KWETEY	            01244186B	             Pseudocode Writer
+MISBAAHU FUSEINI	               01240271B	             Flowchat Designer
+RICHMOND AFARI	                  01245919B	             C++ Programmer
+EZRA ARMOO ENISON	               01243736B	             C++ Programmer
+BENSAH JUNIOR JOSEPH	            01242875B	             Testing Lead
+QUARSHIE DENNIS WISE		         01242874B                GitHub Manager
+LEMBOE MARVELOUS MARSHAL	      01242579B	             Documentation Lead
+MARTIN BABILAH	                  01240920B	             Presentation Lead
 
-| Names | Index |
-|---|---|
-| MARTIN BABILAH | 01240920B |
-| RICHMOND AFARI | 01245919B |
-| AMUYAO FESTUS KWETEY | 01244186B |
-| BENSAH JUNIOR JOSEPH | 01242875B |
-| EZRA ARMOO ENISON | 01243736B |
-| OFOSU DAVID OPOKU | 01243218B |
-| LEMBOE MARVELOUS MARSHAL | 01242579B |
-| QUARSHIE DENNIS WISE | 01242874B |
-| MISBAAHU FUSEINI | 01240271B |
 
 ## Course Name and Code
 
@@ -129,8 +130,6 @@ This application is a practical engineering tool that combines OOP principles, a
 6. Stop
 
 ## Pseudocode
-
-```
 START
 Display welcome message
 Display project title
@@ -168,7 +167,6 @@ END FOR
 Close file
 Display message that report has been saved
 STOP
-```
 
 ## Future Improvements
 
