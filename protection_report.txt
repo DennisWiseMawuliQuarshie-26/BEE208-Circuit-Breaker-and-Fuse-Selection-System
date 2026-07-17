@@ -1,0 +1,49 @@
+
+--- Circuit Record ---
+Circuit Name: bed room
+Supply Voltage: 240 V
+Total Power: 480 W
+Load Current: 2.00 A
+Design Current: 2.50 A
+Recommended Device: 6.00 A
+Status: Suitable standard rating found
+----------------------
+
+--- Circuit Record ---
+Circuit Name: bathroom
+Supply Voltage: 240 V
+Total Power: 20000 W
+Load Current: 83.33 A
+Design Current: 104.17 A
+Status: WARNING: Design current exceeds maximum standard rating (63 A)!
+----------------------
+
+--- Circuit Record ---
+Circuit Name: living room
+Supply Voltage: 240 V
+Total Power: 2400 W
+Load Current: 10.00 A
+Design Current: 12.50 A
+Recommended Device: 16.00 A
+Status: Suitable standard rating found
+----------------------
+
+--- Circuit Record ---
+Circuit Name: rewt
+Supply Voltage: 23 V
+Total Power: 54 W
+Load Current: 2.35 A
+Design Current: 2.93 A
+Recommended Device: 6.00 A
+Status: Suitable standard rating found
+----------------------
+
+--- Circuit Record ---
+Circuit Name: tryj
+Supply Voltage: 33 V
+Total Power: 4 W
+Load Current: 0.12 A
+Design Current: 0.15 A
+Recommended Device: 6.00 A
+Status: Suitable standard rating found
+----------------------
