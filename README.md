@@ -133,6 +133,7 @@ This application is a practical engineering tool that combines OOP principles, a
 
 ## Pseudocode
 
+```
  START
  Display welcome message
  Display project title
@@ -170,7 +171,7 @@ FOR each circuit from 1 to number of circuits DO
  Close file
  Display message that report has been saved
  STOP
-
+```
 ## Future Improvements
 
 Possible enhancements for the program include:
