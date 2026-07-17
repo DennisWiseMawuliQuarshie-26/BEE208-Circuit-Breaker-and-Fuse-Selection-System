@@ -1,0 +1,21 @@
+CIRCUIT BREAKER AND FUSE SELECTION REPORT
+
+_________________________________________________
+Circuit Name          : Beedroom 1
+Supply Voltage (V)    : 240.000000
+Total Power (W)       : 1000.000000
+Load Current (A)      : 4.166667
+Design Current (A)    : 5.208333
+Recommended Rating    : 6.000000 A
+Status                : Suitable standard rating found.
+__________________________________________________
+
+_________________________________________________
+Circuit Name          : Hall 1
+Supply Voltage (V)    : 241.000000
+Total Power (W)       : 8500.000000
+Load Current (A)      : 35.269710
+Design Current (A)    : 44.087137
+Recommended Rating    : 63.000000 A
+Status                : Suitable standard rating found.
+__________________________________________________
